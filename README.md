@@ -55,9 +55,9 @@ My focus is on improving engineering productivity through parametric modelling, 
 
 ### Let's Connect
 
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your portfolio URL]
-- Email: [Add your professional email]
+- LinkedIn: [https://www.linkedin.com/in/pranaykapse1234]
+- Portfolio: [https://pranaykapse1.github.io/portfolio]
+- Email: [pranaykapse1@gmail.com]
 
 **Open to international opportunities in Mechanical CAD Design and CAD Automation Engineering.**
 
